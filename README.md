@@ -19,8 +19,8 @@ at **Hyderabad Institute of Technology and Management (2026 passout)**
 
 ### 👨‍💻 **Development**  
 ![Java](https://img.shields.io/badge/Code-Java-blue?style=for-the-badge&logo=java)  
-[JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript)  
-[FullStack](https://img.shields.io/badge/Full%20Stack%20Developer-green?style=for-the-badge&logo=node.js)  
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript)  
+![FullStack](https://img.shields.io/badge/Full%20Stack%20Developer-green?style=for-the-badge&logo=node.js)  
 
 ### 🔐 **Cybersecurity**  
 ![Nmap](https://img.shields.io/badge/Tool-Nmap-blue?style=for-the-badge&logo=nmap)  
